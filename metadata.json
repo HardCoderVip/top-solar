@@ -1,0 +1,8 @@
+{
+  "name": "Remix Top Solar Solutions - Clean Energy \u0026 Solar Consultations",
+  "description": "Official portal for Top Solar Solutions, showcasing On-Grid, Off-Grid, Hybrid solar systems, solar water heaters, EPC solutions, efficiency analytics, and solar consultation lead generation. make it responsive",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
